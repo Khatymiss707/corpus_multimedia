@@ -1,5 +1,5 @@
 # Minecraft Bloc, Escape Room Project 2022
-modèle de page docsify pour une publication via page sans actions 
+[lien vers la page](http://minecraftbloc.milieux.ca/escape-room-project-2022/)
 
 
 ## L'Équipe
