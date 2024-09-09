@@ -1,5 +1,5 @@
 # Minecraft Bloc, Escape Room Project 2022
-[lien vers la page](http://minecraftbloc.milieux.ca/escape-room-project-2022/)
+[lien vers la page](http://minecraftbloc.milieux.ca/escape-room-project-2022/) </br>
 ![minecraft_main_page_image](https://github.com/user-attachments/assets/9b0c4e1c-7c5a-4d34-b0ef-3d4b2cd29c02)
 
 
@@ -74,9 +74,9 @@ Processus création:
 - Audio: Ils ont gardé le son de Minecraft pour la familiarité (reprise du Kitsch)
   
 - Programmation: Comment utiliser le programme à son avantage, tester les renders, tester les fonctionalités comme les pistons/redstones, cog blocks (Supplementaries mod), pressure plates, conveyor belts (tapis roulant), jouer avec le concept de la lumière (ex: chambre rouge), Create Mod (sticky pistons, colle, powdered latch), commandes avec les Command Blocs, etc. 
-   
+
+[Vidéo de leurs contraptions](https://youtu.be/egRfEE2Ok3I?si=I1ebwa0AU-uzS0j-)</br>
 ![pistons](https://github.com/user-attachments/assets/a10861dd-0e0b-4f3a-b224-b241726a0ae2)
-[Vidéo de leurs contraptions](https://youtu.be/egRfEE2Ok3I?si=I1ebwa0AU-uzS0j-)
 
 ## Composante centrale
 Les 3 chambres et l'expérience immeserive que le joueur ressent en jouant 
