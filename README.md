@@ -37,7 +37,9 @@ Inspiration d’autres oeuvres:
 - Installations cubiques par Esther Stocker
 
 ### INSPIRATION VS RECRÉATION </br>
-![art_og](https://github.com/user-attachments/assets/7507cc9f-8281-41fe-9508-887e2d95d2f2) ![recreationimg](https://github.com/user-attachments/assets/a68b2fa7-2a07-4ad1-b101-2b9e6eb346d7)
+![art_og](https://github.com/user-attachments/assets/d40f5569-e813-4ccd-a06e-ab799967aff0) ![recreationimg](https://github.com/user-attachments/assets/3f383973-650d-4739-b4d4-234f32e7573d)
+
+
 
 ## Description 
 Jeu d’évasion intéractif avec 3 joueurs sur ordinateur qui est composés de trois chambres qui contiennent chacun un casse tête désigné: INVISIBLE PATH (Chemin invisible) , BOMB DIFFUSING (Diffusion de bombe) et DEATH BRIDGE (Pont de la mort)
