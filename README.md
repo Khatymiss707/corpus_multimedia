@@ -79,7 +79,7 @@ Processus création:
 ![pistons](https://github.com/user-attachments/assets/a10861dd-0e0b-4f3a-b224-b241726a0ae2)
 
 ## Composante centrale
-Les 3 chambres et l'expérience immeserive que le joueur ressent en jouant 
+Les 3 chambres: les défis sur les limites du programme et de leur esthétisme
 
 ![bombe](https://github.com/user-attachments/assets/8fab695d-7100-4673-98b5-f26195e6d9c0)
 ![redroom](https://github.com/user-attachments/assets/82999615-8869-4d8a-bc2f-40f47fd835cb)
