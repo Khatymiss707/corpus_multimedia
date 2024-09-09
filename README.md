@@ -1,7 +1,7 @@
 # Minecraft Bloc, Escape Room Project 2022
 ![minecraft_main_page_image](https://github.com/user-attachments/assets/9b0c4e1c-7c5a-4d34-b0ef-3d4b2cd29c02)
-</br>
 
+</br>
 [lien vers la page](http://minecraftbloc.milieux.ca/escape-room-project-2022/)
 
 
